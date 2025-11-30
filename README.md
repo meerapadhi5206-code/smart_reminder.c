@@ -156,3 +156,134 @@ int main() {
     }
     return 0;
 }
+## Example Usage and Output
+Menu:
+1. Add
+2. List
+3. Check
+4. Delete
+5. Exit
+Choice: **1**  (User chooses to add a reminder)
+
+Description: **Buy groceries**  (User enters description)
+Due time (YYYY-MM-DD HH:MM): **2023-10-05 14:30**  (User enters time)
+Added.  (Program confirms)
+
+Menu:
+1. Add
+2. List
+3. Check
+4. Delete
+5. Exit
+Choice: **1**  (Add another reminder)
+
+Description: **Call doctor**
+Due time (YYYY-MM-DD HH:MM): **2023-10-06 10:00**
+Added.
+
+Menu:
+1. Add
+2. List
+3. Check
+4. Delete
+5. Exit
+Choice: **2**  (List reminders)
+
+1. Buy groceries - 2023-10-05 14:30
+2. Call doctor - 2023-10-06 10:00
+
+Menu:
+1. Add
+2. List
+3. Check
+4. Delete
+5. Exit
+Choice: **3**  (Check for due reminders; assuming current time is after 2023-10-05 14:30)
+
+REMINDER: Buy groceries
+
+Menu:
+1. Add
+2. List
+3. Check
+4. Delete
+5. Exit
+Choice: **4**  (Delete a reminder)
+
+1. Buy groceries - 2023-10-05 14:30
+2. Call doctor - 2023-10-06 10:00
+Delete number: **1**  (Delete the first reminder)
+Deleted.
+
+Menu:
+1. Add
+2. List
+3. Check
+4. Delete
+5. Exit
+Choice: **5**  (Exit)
+Menu:
+1. Add
+2. List
+3. Check
+4. Delete
+5. Exit
+Choice: **1**  (User chooses to add a reminder)
+
+Description: **Buy groceries**  (User enters description)
+Due time (YYYY-MM-DD HH:MM): **2023-10-05 14:30**  (User enters time)
+Added.  (Program confirms)
+
+Menu:
+1. Add
+2. List
+3. Check
+4. Delete
+5. Exit
+Choice: **1**  (Add another reminder)
+
+Description: **Call doctor**
+Due time (YYYY-MM-DD HH:MM): **2023-10-06 10:00**
+Added.
+
+Menu:
+1. Add
+2. List
+3. Check
+4. Delete
+5. Exit
+Choice: **2**  (List reminders)
+
+1. Buy groceries - 2023-10-05 14:30
+2. Call doctor - 2023-10-06 10:00
+
+Menu:
+1. Add
+2. List
+3. Check
+4. Delete
+5. Exit
+Choice: **3**  (Check for due reminders; assuming current time is after 2023-10-05 14:30)
+
+REMINDER: Buy groceries
+
+Menu:
+1. Add
+2. List
+3. Check
+4. Delete
+5. Exit
+Choice: **4**  (Delete a reminder)
+
+1. Buy groceries - 2023-10-05 14:30
+2. Call doctor - 2023-10-06 10:00
+Delete number: **1**  (Delete the first reminder)
+Deleted.
+
+Menu:
+1. Add
+2. List
+3. Check
+4. Delete
+5. Exit
+Choice: **5**  (Exit)
