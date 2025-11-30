@@ -156,6 +156,12 @@ int main() {
     }
     return 0;
 }
+
+<img width="1909" height="1009" alt="Screenshot 2025-11-30 205350" src="https://github.com/user-attachments/assets/34ca9334-5fd2-4b87-abcc-3e4caace4419" />
+<img width="1911" height="996" alt="Screenshot 2025-11-30 205422" src="https://github.com/user-attachments/assets/c857a36a-0b62-4cbc-a6de-d6034dc6a12b" />
+<img width="1915" height="1017" alt="Screenshot 2025-11-30 205505" src="https://github.com/user-attachments/assets/be062ad3-bf6f-4223-99ed-f9d1f0b3164f" />
+<img width="1906" height="1005" alt="Screenshot 2025-11-30 205526" src="https://github.com/user-attachments/assets/70cf7da3-febe-4926-9134-639d3d33df9c" />
+
 ## Example Usage and Output
 Menu:
 1. Add
@@ -287,3 +293,9 @@ Menu:
 4. Delete
 5. Exit
 Choice: **5**  (Exit)
+<img width="1914" height="987" alt="Screenshot 2025-11-30 214540" src="https://github.com/user-attachments/assets/4a0445ba-ed51-4c6a-b8b5-016306094e12" />
+<img width="1892" height="1007" alt="Screenshot 2025-11-30 214557" src="https://github.com/user-attachments/assets/db5934c4-8550-47d3-aab6-96ecb4cb4cb1" />
+## Conclusion
+This Smart Reminder project demonstrates how C language can be used to build a simple real-world utility application. 
+I added multiple unique features such as categorized reminders, validation checks, and a redesigned menu system, which makes my project different from others. 
+This project helped me understand file handling, time management, and user-friendly program design in C.
